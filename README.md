@@ -1,12 +1,11 @@
-# node-api to retrieve Shakespearean description
+# Node API to retrieve the Shakespearean description of a pokemon
 
 A node js api for finding Shakespearean description of a pokemon.
-
-## Note
 
 # Third Party APIs used
 
 PokeAPI: [https://pokeapi.co/api/v2/pokemon-species](https://pokeapi.co/api/v2/pokemon-species)
+
 Shakespearean description: [https://funtranslations.com/api/shakespeare](https://funtranslations.com/api/shakespeare)
 
 # Steps to download & build locally
